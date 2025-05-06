@@ -6,7 +6,7 @@
 
 ---
 
-### This repo is an ongoing compilation of the modules I am going through on the Penetration Tester path with Hack The Box. It is for personal use, but is viewable to the public for anyone interested in foing down the same path I intend to persue.
+### This repo is an ongoing compilation of the modules I am going through on the Penetration Tester path with Hack The Box. It is for personal use, but is viewable to the public for anyone interested in going down the same path I intend to persue.
 
 ### Feel free to read and follow along as you please. The intention here is to help myself of course, but if any of these notes helps others in the process that is a WIN.
 
