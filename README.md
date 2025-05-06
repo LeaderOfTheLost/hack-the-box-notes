@@ -16,17 +16,17 @@
 
 ### Modules
 
-[x] Intro to Academy*
-[x] Learning Process*
-[x] Linux Fundamentals*
-[x] Windows Fundamentals*
-[x] macOS Fundamentals*
-[x] Intro to Networking*
-[x] Setting Up*
-[x] Intro to Active Directory*
-[] Getting Started
-[] Intro to Web Applications
-[] Web Requests
+- [x] Intro to Academy\*
+- [x] Learning Process\*
+- [x] Linux Fundamentals\*
+- [x] Windows Fundamentals\*
+- [x] macOS Fundamentals\*
+- [x] Intro to Networking\*
+- [x] Setting Up\*
+- [x] Intro to Active Directory\*
+- [] Getting Started
+- [] Intro to Web Applications
+- [] Web Requests
 
 ---
 
