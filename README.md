@@ -24,9 +24,9 @@
 - [x] Intro to Networking\*
 - [x] Setting Up\*
 - [x] Intro to Active Directory\*
-- [] Getting Started
-- [] Intro to Web Applications
-- [] Web Requests
+- [ ] Getting Started
+- [ ] Intro to Web Applications
+- [ ] Web Requests
 
 ---
 
